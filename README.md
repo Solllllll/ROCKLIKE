@@ -1,2 +1,2 @@
 # ROCKLIKE
-#This is the project of Solllllll and CasualCarnivine
+This is the project of Solllllll and CasualCarnivine
